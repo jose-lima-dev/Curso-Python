@@ -1,7 +1,7 @@
 nome = 'José'
 sobrenome = 'Soares'
 idade = 20
-ano_nascimento = 2023 - 20
+ano_nascimento = 2023 - 20sdad
 maior_de_idade = idade >= 18
 altura_metros = 1.78
 
